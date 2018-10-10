@@ -1,2 +1,2 @@
 # ash-s
-my first repository on github
+my first repository on github.
